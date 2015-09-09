@@ -1,2 +1,2 @@
 # paperbag.js
-A simple, configurable and adaptable angular shopping cart 
+A simple, configurable and adaptable front-end angular shopping cart 
