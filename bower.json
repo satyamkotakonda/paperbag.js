@@ -1,0 +1,28 @@
+{
+  "name": "paperbag-js",
+  "description": "A simple, configurable and adaptable front-end angular shopping cart",
+  "main": "dist/paperbag.js",
+  "authors": [
+    "btinoco"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "paperbag",
+    "shopping",
+    "cart",
+    "ecommerce",
+    "e-commerce",
+    "angular",
+    "angularjs"
+  ],
+  "moduleType": [],
+  "homepage": "btinoco.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
